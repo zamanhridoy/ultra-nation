@@ -1,0 +1,16 @@
+.country{
+    text-align: start;
+    border: 3px solid lightgray;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+}
+.country h4, p{
+    margin: 5px;
+    font-size:medium;
+}
+.flag{
+    width: 150px;
+    margin-top: 20px;
+}
